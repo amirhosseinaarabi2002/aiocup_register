@@ -1,0 +1,1 @@
+# aiocup_register
